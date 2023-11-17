@@ -1,0 +1,17 @@
+{
+    "name": "arina/pizza",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Arina\\Pizza\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Arina",
+            "email": "mail@mail.ru"
+        }
+    ],
+    "require": {},
+    "minimum-stability": "dev"
+}
